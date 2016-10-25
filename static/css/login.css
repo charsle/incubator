@@ -1,0 +1,54 @@
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+.subBasic {
+  display: block;
+  padding: 8px 0;
+  border-radius: 3px;
+}
+.submitLogin {
+  color: #fff;
+  background: #e58a0a;
+}
+.submitLogin:hover,
+.submitLogin:focus {
+  color: #fff;
+  background: #d7830a;
+}
+.forLable a,
+.forLable label {
+  font-size: 12px;
+  color: #e58a0a;
+}
+.forLable a:hover,
+.forLable label:hover {
+  color: #d7830a;
+}
+.reg {
+  color: #e58a0a;
+  border: #e58a0a 1px solid;
+}
+.reg:hover,
+.reg:focus {
+  color: #fff;
+  background: #e58a0a;
+}
+.getCode {
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  width: 100%;
+  font-size: 12px;
+  border-radius: 3px;
+}
+.goMain {
+  color: #e58a0a;
+  font-size: 18px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.boxTop {
+  margin-top: 60px;
+}
+/*# sourceMappingURL=login.css.map */

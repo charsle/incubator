@@ -1,0 +1,6 @@
+export const RECALL_PROJECT = 'RECALL_PROJECT';//撤回
+export const ADD_OR_UPDATE_VIDEO_ITEM = 'ADD_OR_UPDATE_VIDEO_ITEM';//撤回
+export const ADD_CHOOSE_PARSON = 'ADD_CHOOSE_PARSON';//撤回
+export const CHOOSE_PARSON_ITEM = 'CHOOSE_PARSON_ITEM';//撤回
+export const WEB_ADD_POINT_PROJECT = 'WEB_ADD_POINT_PROJECT';//撤回
+export const APPLY_LIST = 'APPLY_LIST';//撤回

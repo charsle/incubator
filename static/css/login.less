@@ -1,0 +1,53 @@
+@orangeColor: #e58a0a;
+@whiteColor: #fff;
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+.subBasic{
+    display: block;
+    padding: 8px 0;
+    border-radius: 3px;
+}
+.submitLogin {
+    color: @whiteColor;
+    background: @orangeColor;
+    &:hover, &:focus{
+        color: @whiteColor;
+        background: #d7830a;
+    }
+}
+.forLable{ 
+    a, label{
+        font-size: 12px;
+        color: @orangeColor;
+        &:hover{
+            color: #d7830a;
+        }
+    }
+}
+.reg{
+    color: @orangeColor;
+    border: @orangeColor 1px solid;
+    &:hover, &:focus{
+        color: @whiteColor;
+        background: @orangeColor;
+    }
+}
+.getCode{
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    width: 100%;
+    font-size: 12px;
+    border-radius: 3px;
+}
+.goMain{
+    color: @orangeColor;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.boxTop{
+    margin-top: 60px;
+} 
