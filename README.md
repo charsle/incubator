@@ -1,7 +1,6 @@
 # incubator
-<<<<<<< HEAD
 
-> Incubator Park
+> 路演后台管理系统，管理人员进行路演的全方位操作
 
 ## Build Setup
 
@@ -26,6 +25,3 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-路演后台
->>>>>>> 629254a97cc07e49875dfec99a2605a7cd1c57d9
